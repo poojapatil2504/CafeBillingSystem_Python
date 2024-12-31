@@ -1,0 +1,10 @@
+pip install pyttsx3
+
+
+
+COMMANDS TO RUN PROJECT :=
+
+1)copy the path where cafe.py is located
+2)open anaconda prompt3)type command     cd<space> paste laction of cafe.py 
+4)check wether path form anaconda is change or not 
+3) after path change type command      python<space>cafe.py
